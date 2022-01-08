@@ -1,2 +1,2 @@
-# foodmandu
-Just for practicing
+# FUN
+Just for having FUN
